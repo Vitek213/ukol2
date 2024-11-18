@@ -1,0 +1,23 @@
+*{
+}
+.hwo{
+    border: 30px dashed black;
+    width: fit-content;
+    padding: 200px;
+    margin: auto;
+    margin-top: 110px;
+    outline: 1000px solid black;
+}
+.nadpis{
+    text-align: center;
+    
+
+}
+#bss{
+    text-align: center;
+}
+.obraz{
+    width: 100px;
+    height: 100px;
+    align-self: center;
+}
