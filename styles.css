@@ -1,12 +1,15 @@
 *{
+
 }
 .hwo{
-    border: 30px dashed black;
+    border: 80px dotted black;
     width: fit-content;
     padding: 200px;
     margin: auto;
-    margin-top: 110px;
+    margin-top: 30px;
+    margin-bottom: 30px;
     outline: 1000px solid black;
+    outline-offset: -70px;
 }
 .nadpis{
     text-align: center;
@@ -14,10 +17,19 @@
 
 }
 #bss{
-    text-align: center;
+    text-align: left;
+    text-size-adjust: 100px;
 }
 .obraz{
     width: 100px;
     height: 100px;
     align-self: center;
+}
+div{
+    display: flex;
+    justify-content: center;
+}
+ol{
+    list-style-position: inside;
+    text-align: center ;
 }
