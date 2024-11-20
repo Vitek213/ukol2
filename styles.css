@@ -1,35 +1,36 @@
-*{
-
+html{
+    background-color: black;
 }
 .hwo{
-    border: 80px dotted black;
     width: fit-content;
-    padding: 200px;
-    margin: auto;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    outline: 1000px solid black;
-    outline-offset: -70px;
+    padding-top: 60px; background-color: white;
+    padding-bottom: 60px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 600px;
+    margin-top: 150px;
+    outline: 70px dotted black;
+    outline-offset: -10px;
+    border-radius: 20px;
 }
 .nadpis{
     text-align: center;
-    
-
+    font-weight: bolder;
 }
 #bss{
-    text-align: left;
+    text-align: justify;
     text-size-adjust: 100px;
 }
 .obraz{
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     align-self: center;
 }
 div{
-    display: flex;
-    justify-content: center;
+
 }
 ol{
     list-style-position: inside;
     text-align: center ;
+    margin-left: 120px;
 }
